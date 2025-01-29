@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **☁️  I'm currently working on a cloud project leveraging Prisma Cloud and Cortex XDR to enhance security posture and enhance threat detection.**
+- 💼 I'm currently working on: **☁️ A cloud project leveraging Prisma Cloud and Cortex XDR to enhance security posture and enhance threat detection.**
 - 🌱 I'm currently learning: **📚 CompTIA Network+ & CompTIA Security+**
 - 💬 Ask me about: **💡 Cloud Security**
 - ⚡ Fun fact: **🎢 I placed top 5% in the DoD Sentinel CTF Skills Competition **
